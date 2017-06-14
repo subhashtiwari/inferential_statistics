@@ -1,0 +1,8 @@
+There are some points that should be remembered:
+
+1. The alpha level is smaller for smaller critical regions.
+2. The critical region defines unlikely values if the null hypothesis is true.
+3. When the Z-score is large (e.g. more than 3.00), we reject the null hypothesis.
+4. When we accept the null hypothesis we believe that the treatment has no effect, based on the samples.
+5. An effect that exists is more likely to be detected if sample size is large.
+6. An effect that exists is less likely to be detected if SD is large.
