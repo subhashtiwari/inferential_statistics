@@ -13,3 +13,11 @@ t-statistics = -3.25
 thus we "Reject the null" as the t-statistics is less than the t-critical values.
 
 This means that the Rental company charges significantly less.
+
+Now we find Cohen's d = -.65
+
+The Confiednce Interval with 2.5% in each tail, we'll have a 95% CI.
+
+The Confidence Interval (1617.44 , 1782.56)
+
+The Margin of Error for n=100 is 39.68.
