@@ -23,4 +23,3 @@ What is the t-critical value for alpha = 0.05? DOF for this case will be na+nb-2
 (+/-) 2.042
 
 Thus based on the results we will Reject the null.
-
