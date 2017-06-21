@@ -25,3 +25,17 @@ SS-within = 862.
 df-between = 2 : There are 3 Groups, so 2 degrees of freedom.
 df-within = 9 : In this we had 4 values in each group so n1+n2+n3-3 = 9.
 
+6. What will be the mean squares?
+Mean Square between = 1505.33
+Mean Square within = 95.78
+
+7.  What will be the F-statistics?
+F-statistics = 15.72
+
+8. What is the F-Critical?
+F-critical = 4.2565
+
+9. What is the final decision?
+As the F-statistics > F-critical we will reject the null.
+
+
