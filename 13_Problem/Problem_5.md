@@ -44,3 +44,12 @@ F-critical = 5.1433
 
 13. What is the decision?
 We will reject the null.
+
+14. What is the Deviation from the Grand Mean?
+Deviation from the Grand Mean = 60
+
+15. What is SStotal?
+SStotal = SSbetween + SSwithin = 60
+
+16. What is the conclusion?
+At least two foods significantly differ from each other in terms of the amount eaten by the cows.
