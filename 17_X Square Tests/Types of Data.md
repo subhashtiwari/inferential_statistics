@@ -1,0 +1,9 @@
+There are 4 types of data 
+
+1. Nominal Data : The nominal scale of measurement only satisfies the identity property of measurement. Values assigned to variables represent a descriptive category, but have no inherent numerical value with respect to magnitude. Gender is an example of a variable that is measured on a nominal scale. Individuals may be classified as "male" or "female", but neither value represents more or less "gender" than the other. 
+
+2. Ordinal Data : The ordinal scale has the property of both identity and magnitude. Each value on the ordinal scale has a unique meaning, and it has an ordered relationship to every other value on the scale. An example of an ordinal scale in action would be the results of a horse race, reported as "win", "place", and "show". We know the rank order in which horses finished the race. However, we cannot tell from this ordinal scale whether it was a close race or whether the winning horse won by a mile.
+
+3. Interval Data : The interval scale of measurement has the properties of identity, magnitude, and equal intervals. A perfect example of an interval scale is the Fahrenheit scale to measure temperature. With an interval scale, you know not only whether different values are bigger or smaller, you also know how much bigger or smaller they are.
+
+4. Ratio Data : The ratio scale of measurement satisfies all four of the properties of measurement: identity, magnitude, equal intervals, and a minimum value of zero. The weight of an object would be an example of a ratio scale. Weight scales have a minimum value of zero because objects at rest can be weightless, but they cannot have negative weight.

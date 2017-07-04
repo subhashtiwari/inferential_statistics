@@ -1,0 +1,2 @@
+The r is the measure of the strength of their relationship, and looks at how X and Y vary together as opposed to how they each vary idependently.
+We can describe liner data using a straight line drawn through the middle of the data. This straight line is called Regression line or line of best fit. It helps us in describing the data and make the prediction.
